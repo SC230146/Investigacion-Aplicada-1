@@ -2,3 +2,4 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico 
 Capítulo 3: Gestion de Ramas
 Capítulo 4: Repositorios remotos 
+git commit --amend -m "Añadido capitulo 3 sobre gestión de ramas al índice."
